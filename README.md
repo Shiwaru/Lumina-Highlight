@@ -24,7 +24,7 @@ Dualidad de Cuentas: Soporte para Premium y No Premium con lógica separada para
 # 4 - Experiencia de Usuario
 Skins Globales en Local: Carga automática de skins premium basadas en el Nick, incluso en mundos Offline o redes LAN. (Pendiente modificación para SkinsRich - Veré que hago)
 
-# 5 - Funciones que TODOS ODIAMOS en los launchers que todos usamos y creo que harán mejor NO tenerlas porque los que usamos mucho Java, LAS ODIAMOS, QUEDÓ CLARO QUE LAS ODIAMOS?
+# 5 - Funciones que TODOS ODIAMOS en los launchers y creo que harán mejor mejorarlas porque los que jugamos Java, LAS ODIAMOS, PERO QUEDÓ CLARO QUE LAS ODIAMOS?
 
 Auto-Cerrar Launcher: Una opción por defecto encendida para cerrar el launcher completamente después de abrir completamente Minecraft Java, sin mas, sin cosas raras ni que el launcher quede consumiendo recursos de fondo mientras el juego esté abierto, nada de eso, que basura que eso pase en todos los launchers.
 
