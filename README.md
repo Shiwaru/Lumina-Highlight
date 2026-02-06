@@ -43,4 +43,8 @@ Esta es mi serie de retos a los que quiero llegar a completar sin mas, tengan un
 
 
 
+Cositas que me han dicho:
+
+- Themes? Launcher personalizable en colores
+
 
