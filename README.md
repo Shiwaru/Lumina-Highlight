@@ -2,7 +2,6 @@
 Gestión de JVM independiente: Descarga automática de Java necesario (Java 8, 17, 21, etc.)
 
 # - Planes para Shira Launcher -
-
 # 1 - Sistema de Versiones y Modloaders
 Detección Multiversión: Listado inteligente de versiones Vanilla, NeoForge, Forge y Fabric.
 
