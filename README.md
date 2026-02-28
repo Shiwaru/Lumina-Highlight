@@ -1,5 +1,7 @@
+# Cosas Terminadas:
+Gestión de JVM independiente: Descarga automática de Java necesario (Java 8, 17, 21, etc.)
 
- # - Roadmap: El Futuro de Shira Launcher -
+# - Planes para Shira Launcher -
 
 # 1 - Sistema de Versiones y Modloaders
 Detección Multiversión: Listado inteligente de versiones Vanilla, NeoForge, Forge y Fabric.
@@ -12,10 +14,6 @@ Gestor de Modpacks: Capacidad de interpretar archivos de CurseForge/Modrinth par
 
 # 2 - Rendimiento y Optimización Extrema
 Inyección de Código: Optimización de Minecraft desde sus entrañas (código obfuscado) para maximizar FPS. (Mediante código inyectado o mixins - Prioridad baja)
-
-Gestión de JVM Dinámica: Descarga automática de la versión de Java necesaria (Java 8, 17, 21, etc.)
-
-(Actualmente en progreso - Adoptium Funcionando - Faltante OpenJ9)
 
 Soporte OpenJ9: Implementación de lógica para ajustar los argumentos de lanzamiento específicos para OpenJ9 ya que Adoptium admite argumentos que OpenJ9 no.
 
