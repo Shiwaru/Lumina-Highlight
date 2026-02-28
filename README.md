@@ -4,14 +4,14 @@ Gestión de JVM independiente: Descarga automática de Java necesario (Java 8, 1
 # - Planes para Shira Launcher -
 # 1 - Sistema de Versiones y Modloaders
 Detección Multiversión: Listado inteligente de versiones Vanilla, NeoForge, Forge y Fabric.
-(En Progreso)
+(EN PROGRESO)
 
-Auto-Inyección de SkinsRich: Descarga silenciosa del mod desde CurseForge e instalación automática en la carpeta de mods al seleccionar NeoForge 1.21.11 o 1.21.10 para una experiencia mas fluida.
+Auto-Inyección de SkinsRich: Descarga silenciosa del mod desde CurseForge e instalación automática si se usa NeoForge 1.21.11 o 1.21.10 para una experiencia mas fluida.
 
 Gestor de Modpacks: Capacidad de interpretar archivos de CurseForge/Modrinth para que usuarios No Premium puedan instalar modpacks que solo son jugables usando CurseForge.
 
 # 2 - Rendimiento y Optimización Extrema
-Inyección de Código: Optimización de Minecraft desde sus entrañas (código obfuscado) para maximizar FPS. (Mediante código inyectado o mixins - Prioridad baja)
+Inyección de Código: Optimización de Minecraft desde sus entrañas para maximizar FPS. (EN PROGRESO)
 
 Soporte OpenJ9: Implementación de lógica para ajustar los argumentos de lanzamiento específicos para OpenJ9 ya que Adoptium admite argumentos que OpenJ9 no.
 
