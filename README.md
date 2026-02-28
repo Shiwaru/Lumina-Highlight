@@ -31,7 +31,7 @@ Auto-Cerrar Launcher: Una opción por defecto encendida para cerrar el launcher 
 
 Implementar Skins: Lograr implementar skins sin que sea SkinsRich mod, y que se logre de forma nativa en el launcher - Pero que no sea como el de TLauncher que es una completa cagada porque en los servidores no ves las skins reales del resto y ni podés apagarlo cuando lo intentás, un bodrio.
 
-NO CREAR CARPETAS DE MAS: Eso, nada de crear carpetas que NO TENGAN que ver con el directorio interno donde esté mi launcher y en su carpeta "ShiraData", que bodrio eso que hacen otros launchers. También hacen que el sistema de carpetas interno sea un CAOS, UN INFIERNO LITERALMENTE (TE ESTOY MIRANDO TLAUNCHER, depende de que launcher igual, Prism y MultiMC no son el caso porque crean instancias en sus propias carpetas y son muy ordenados dentro de todo)
+NO CREAR CARPETAS DE MAS: Eso, nada de crear carpetas que NO TENGAN que ver con el directorio interno donde esté mi launcher y en su carpeta "ShiraData", que bodrio eso que hacen otros launchers. También hacen que el sistema de carpetas interno sea un CAOS, UN INFIERNO LITERALMENTE (TE ESTOY MIRANDO TLAUNCHER)
 
 Y esto fué todo amiguitos, no me odien ❤️
 
