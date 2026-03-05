@@ -5,6 +5,7 @@ Compatibilidad Fabric (Pendiente subir revisión)
 Revamp Estético (Pendiente subir revisión)
 Intro de Mojang (Pendiente subir revisión)
 
+
 # - Planes para Shira Launcher -
 # 1 - Sistema de Versiones y Modloaders
 ***(EN PROGRESO)*** Detección Multiversión - Listado automático de versiones Vanilla, NeoForge, Forge y Fabric para mods.
