@@ -6,15 +6,14 @@ Revamp Estético (Pendiente subir revisión)
 
 # - Planes para Shira Launcher -
 # 1 - Sistema de Versiones y Modloaders
-Detección Multiversión: Listado inteligente de versiones Vanilla, NeoForge, Forge y Fabric.
-(EN PROGRESO)
+***(EN PROGRESO)*** Detección Multiversión - Listado automático de versiones Vanilla, NeoForge, Forge y Fabric para mods.
 
-(***DESCARTADO***) Auto-Inyección de SkinsRich: Descarga silenciosa del mod desde CurseForge e instalación automática si se usa NeoForge 1.21.11 o 1.21.10 para una experiencia mas fluida.
+***(DESCARTADO)*** Auto-Inyección de SkinsRich - Descarga silenciosa del mod desde CurseForge e instalación automática si se usa NeoForge 1.21.11 o 1.21.10 para una experiencia mas fluida.
 
-Gestor de Modpacks: Capacidad de interpretar archivos de CurseForge/Modrinth para que usuarios No Premium puedan instalar modpacks que solo son jugables usando CurseForge.
+Gestor de Modpacks - Capacidad de interpretar archivos de CurseForge/Modrinth para que usuarios No Premium puedan instalar modpacks que solo son jugables usando CurseForge.
 
 # 2 - Rendimiento y Optimización Extrema
-Inyección de Código: Optimización de Minecraft desde sus entrañas para maximizar FPS. (EN PROGRESO)
+***(EN PROGRESO)*** ShiraMAX - Optimización de Minecraft para maximizar FPS (SIN MODLOADERS). 
 
 Soporte OpenJ9: Implementación de lógica para ajustar los argumentos de lanzamiento específicos para OpenJ9 ya que Adoptium admite argumentos que OpenJ9 no.
 
