@@ -1,10 +1,7 @@
-# Cosas Terminadas:
+# ChangeLog:
 Gestión de JVM independiente: Descarga automática de Java necesario (Java 8, 17, 21, etc.)
-
 Resolucion de errores de caché (Pendiente subir revisión)
-
 Compatibilidad Fabric (Pendiente subir revisión)
-
 Revamp Estético (Pendiente subir revisión)
 
 # - Planes para Shira Launcher -
@@ -12,7 +9,7 @@ Revamp Estético (Pendiente subir revisión)
 Detección Multiversión: Listado inteligente de versiones Vanilla, NeoForge, Forge y Fabric.
 (EN PROGRESO)
 
-Auto-Inyección de SkinsRich: Descarga silenciosa del mod desde CurseForge e instalación automática si se usa NeoForge 1.21.11 o 1.21.10 para una experiencia mas fluida.
+(***DESCARTADO***) Auto-Inyección de SkinsRich: Descarga silenciosa del mod desde CurseForge e instalación automática si se usa NeoForge 1.21.11 o 1.21.10 para una experiencia mas fluida.
 
 Gestor de Modpacks: Capacidad de interpretar archivos de CurseForge/Modrinth para que usuarios No Premium puedan instalar modpacks que solo son jugables usando CurseForge.
 
