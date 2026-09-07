@@ -19,7 +19,7 @@ Se terminó toda esa mierda.
 > [!WARNING]
 > Shira Launcher está en desarrollo activo. Pueden existir características incompletas o experimentales.
 >
-> Se ha llegado al fin de la fase pre-alpha de Shira. (Highlight) Se está trabajando activamente en su fase alpha. (Krypton)
+> Se ha llegado al fin de la fase pre-alpha de Shira. Se está trabajando activamente en su fase alpha. (Krypton)
 
 ---
 
