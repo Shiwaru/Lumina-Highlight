@@ -46,9 +46,9 @@ Hecho con amor y desarrollado por una sola persona, porque los launchers estanda
 - DiscordRPC integrado
 - Tab de mods integrado
 - Tab de modpacks integrado
-- Opción para mostrar todos los CMD usados
-- Botón de cancelado de lanzamiento
+- Cancelado de lanzamiento
 - Detector de instancias corriendo
+- Opción para mostrar todos los CMD usados
 ---
 
 ## - Características planeadas -
