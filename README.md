@@ -164,8 +164,8 @@ Concepto sin terminar.
 </div>
 
 
-Todos Los Derechos Reservados - All Rights Reserved<br>
-Copyright © Shiwaru - Shira Launcher 
+All Rights Reserved<br>
+Copyright © Shiwaru - Shira Launcher
 
 > You're under no obligation to choose a license. However, without a license, the default copyright laws apply, meaning that you retain all rights to your source code and no one may reproduce, distribute, or create derivative works from your work.
 > https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
