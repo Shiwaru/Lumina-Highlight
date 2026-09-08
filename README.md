@@ -81,7 +81,7 @@ Hecho con amor y desarrollado por una sola persona, porque los launchers estanda
 - [ ] · `Consola del juego en interfaz del Launcher`<br>
 - [ ] · `Crash Handler`<br>
 
-### - Rendimiento y Optimización - 
+### Rendimiento y Optimización
 <!-- 
 `Forge/NeoForge` > Microsoft OpenJDK<br>
 `Fabric/Quilt` > GraalVM<br>
@@ -138,7 +138,7 @@ Concepto sin terminar.
 
 ---
 
-## (DESCARTADO)
+## DESCARTADO
 > Inclusión de ShiraSkin (Mod) si seleccionabas NeoForge 1.21.10 o 1.21.11 <br>
 > Intro de Mojang Studios al inicio (Retirado/Removido) <br>
 > Cambio de Cuentas (Offline) In-Game <br>
